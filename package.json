@@ -54,7 +54,7 @@
     "@spksoft/mongoose-repository": "^1.0.5",
     "@types/socket.io": "^2.1.2",
     "aws-sdk": "^2.412.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "csv-parse": "^4.3.4",
     "csv-parser": "^2.2.0",
     "csv-stream": "^0.2.0",
