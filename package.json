@@ -91,7 +91,7 @@
     "winston": "^2.4.2",
     "winston-graylog2": "^1.0.0",
     "winston-koa-logger": "^0.0.2",
-    "xlsx": "^0.14.1",
+    "xlsx": "^0.17.0",
     "yup": "^0.24.1"
   },
   "husky": {
