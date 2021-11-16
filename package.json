@@ -53,7 +53,7 @@
     "@spksoft/koa-validator-decorator": "^1.0.0",
     "@spksoft/mongoose-repository": "^1.0.5",
     "@types/socket.io": "^2.1.2",
-    "aws-sdk": "^2.412.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.4",
     "csv-parse": "^4.3.4",
     "csv-parser": "^2.2.0",
